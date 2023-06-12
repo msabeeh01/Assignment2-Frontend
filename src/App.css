@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  text-align: center;
+}
+
+.App{
+  display: flex;
+  flex-direction: column;
+  background-color: #191919;
+  height: 100vh;
+  width:100vw;
+  color:white
+}
+
+.elements{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width:100vw;
+}
