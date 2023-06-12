@@ -1,6 +1,7 @@
 {
   "name": "assignment2",
   "private": true,
+  "homepage": "https://assignment2-frontend-lbtqqeyhg-msabeeh01.vercel.app",
   "version": "0.0.0",
   "type": "module",
   "scripts": {

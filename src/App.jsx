@@ -49,7 +49,7 @@ function App() {
         <Route path="/" element={<HomePage/>} />
         <Route path='/allCourses' element={<GetAllCourses/>} />
         <Route path='/addCourse' element={<AddCourse/>} />
-        <Route path='https://assignment2-frontend-theta.vercel.app/mycourses' element={<GetMyCourses/>} />
+        <Route path='/mycourses' element={<GetMyCourses/>} />
         <Route path='/editCourse/:courseCode' element={<EditCourse/>} />
       </Routes>
       </div>
