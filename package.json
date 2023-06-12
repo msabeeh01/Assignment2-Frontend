@@ -1,7 +1,6 @@
 {
   "name": "assignment2",
   "private": true,
-  "homepage": "https://assignment2-frontend-theta.vercel.app/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
